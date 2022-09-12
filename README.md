@@ -1,11 +1,11 @@
-# <p align="center">MiroTalk SFU</p>
+# <p align="center">mediaBOX SFU</p>
 
 <p align="center">Free WebRTC - SFU - Simple, Secure, Scalable Real-Time Video Conferences Up to 4k, compatible with all browsers and platforms.</p>
 
 <hr />
 
 <p align="center">
-    <a href="https://sfu.mirotalk.com/">sfu.mirotalk.com</a>
+    <a href="https://sfu.libresoft.asia/">sfu.libresoft.asia</a>
 </p>
 
 <hr />
@@ -23,7 +23,7 @@
 
 <br/>
 
--   Is `100% Free` - `Open Source` - `Self Hosted` and [PWA](https://en.wikipedia.org/wiki/Progressive_web_application)!
+-   Is `100% Free` - `Open Source` - `Self Hosted` and [PWA](https://en.wikipedia.org/wiki/Progressive_webplication)!
 -   No download, plug-in or login required, entirely browser-based
 -   Unlimited number of conference rooms, without call time limitation
 -   Desktop and Mobile compatible
