@@ -8,10 +8,10 @@
     <a href="https://sfu.libresoft.asia/">sfu.libresoft.asia</a>
 </p>
 
-<hr />
+<hr 
 
 <p align="center">
-    <a href="https://sfu.mirotalk.com/">
+    <a href="https://sfu.libresoft.asia/">
         <img src="public/images/mirotalksfu-header.gif">
     </a>
 </p>
